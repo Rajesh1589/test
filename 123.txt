@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 12122213;alsdkfsdfkjj
 asfa;sdflksadfk;
+=======
+12345678
+>>>>>>> b4b1645 (modified)
